@@ -1,0 +1,21 @@
+.comments {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.one-comment {
+    padding: 10px;
+    margin: 20px 10px;
+    width: 33.33%;
+    height: auto;
+    box-shadow: 2px 2px 5px 5px #666;
+}
+
+p, h3 {
+    text-align: center;
+}
+
+.retour {
+    text-align: center;
+}

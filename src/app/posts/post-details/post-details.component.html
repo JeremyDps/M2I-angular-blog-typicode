@@ -1,0 +1,12 @@
+<div class="retour">
+    <a routerLink="/posts">Retour</a>
+</div>
+
+<p><b>{{ post?.title }}</b></p>
+<p>{{ post?.body }}</p>
+
+<h3>Commentaires pour le post {{ post?.title }}</h3>
+
+<div class="comments">
+    <app-comment class="one-comment" [comment]="c" *ngFor="let c of comments"></app-comment>
+</div>

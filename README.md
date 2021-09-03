@@ -1,3 +1,5 @@
+Ce TP a été réalisé dans le cadre de ma formation "Développeur Java JEE" chez M2I. Etant un exercice, il n'est peut-être incomplet ou certaines fonctionnalités ne fonctionnent pas encore. Attention au chemin du node_modules dans angular_json, adapter en fonction de l'emplacement de celui-ci !
+
 # BlogTypicode
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
